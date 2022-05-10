@@ -1,0 +1,30 @@
+Ennrique Devars
+
+¿Por qué debo aprender esto?
+    Flexibilidad
+    Velocidad
+    No siempre cuentas con una interfaz gráfas
+
+Objetivo
+    Mejorar en la terminal
+
+¿Qué es la terminal?
+    Es una interfaz gráfica que simula una línea de comandos
+
+    Cuando hablamos de una línea de comandos nos referimos a una shell.
+
+    Terminal: Ventanita que nos muestra el promt. Este aloja la shell.
+    
+    Línea d3e comandos: Un programa que toma comandos y los pasa al sistema operativo para hacer algo.
+
+    Tipos de shell:
+        Bourne shell
+        Bash Shell
+        Z Shell
+        C Shell
+        Korn Shell
+        Fish Shell
+        PowerShell
+
+    Un comando de manera sencilla es: Un programa que se puede ejecutar desde la terminal. Este puede recibir
+        parámetros y opciones.
